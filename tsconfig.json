@@ -8,7 +8,6 @@
     "jsx": "react",
     "esModuleInterop": true,
     "moduleResolution": "node",
-    "noImplicitReturns": true,
     "noImplicitThis": true,
     "paths": {
       "@/*": [
